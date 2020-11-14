@@ -1,0 +1,38 @@
+{
+    "name": "thriftshopsite",
+    "version": "1.0.0",
+    "description": "ThriftShop - #1 Cheapest Business Solution For Online Selling in the Philippines",
+    "repository": "https://github.com/thriftshop-site/theme",
+    "author": "uriah galang <ceo@thriftshop.site>",
+    "private": true,
+    "license": "Commons Clause",
+    "scripts": {
+        "hugo": "hugo server -s exampleSite --themesDir=../.. --disableFastRender"
+    },
+    "devDependencies": {
+        "@fullhuman/postcss-purgecss": "^2.1.2",
+        "autoprefixer": "^9.7.6",
+        "postcss": "^7.0.27",
+        "postcss-cli": "^7.1.1",
+        "postcss-import": "^12.0.1",
+        "prettier": "2.0.5",
+        "prettier-plugin-go-template": "0.0.4",
+        "stylelint-config-recommended": "^3.0.0",
+        "tailwindcss": "^1.9.3",
+        "tailwindcss-aspect-ratio": "^3.0.0",
+        "tailwindcss-responsive-embed": "^1.0.0",
+        "@tailwindcss/typography": "^0.2.0",
+        "@tailwindcss/ui": "^0.6.2",
+        "postcss-preset-env": "^6.7.0"
+    },
+    "browserslist": [
+        "last 1 version",
+        "> 1%",
+        "maintained node versions",
+        "not dead"
+    ],
+    "dependencies": {
+        "axios": "^0.19.2",
+        "dotenv": "^8.2.0"
+    }
+}

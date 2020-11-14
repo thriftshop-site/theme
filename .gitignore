@@ -1,0 +1,14 @@
+node_modules/
+public/
+.env
+.vscode
+.notes/
+.cache
+dist/
+cms/
+exampleSite/static/admin/main.js
+
+# Local Netlify folder
+.netlify
+lambda/
+*.bak
