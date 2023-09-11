@@ -57,4 +57,4 @@ note: change the ~~YOURUSERNAME~~ with your github account username
 
 
 ## LICENSE
-[MIT](./LICENSE)
+[MIT](./LICENSE.txt)
