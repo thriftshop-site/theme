@@ -4,7 +4,6 @@
 
 Need Demo? visit our live site to see it in action [thriftshop.site](https://thriftshop.site) or  [demo.thriftshop.site](https://demo.thriftshop.site)
 
-> [Buy Thriftshop Site](https://thriftshop.site/products) if You Havent Bought it Yet.
 
 ## Required Accounts for you to Sign Up
 
