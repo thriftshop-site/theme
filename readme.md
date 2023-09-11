@@ -58,4 +58,4 @@ note: change the ~~YOURUSERNAME~~ with your github account username
 
 
 ## LICENSE
-[COMMON CLAUSE LICENSE](./LICENSE)
+[MIT](./LICENSE)
